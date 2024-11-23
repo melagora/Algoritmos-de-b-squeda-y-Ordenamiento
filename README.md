@@ -1,4 +1,4 @@
-#Algoritmos de búsqueda y Ordenamiento - Actividad #3 de la Semana 3
+# Algoritmos de búsqueda y Ordenamiento - Actividad #3 de la Semana 3
 
 Ejercicios del notion:
  
